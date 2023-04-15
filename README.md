@@ -1,8 +1,8 @@
 <h3>Hey I'm Max</h3>
 
-I'm a language-agnostic software engineer at heart who is passionate about 👁 big visions, 🎯 ambitious goals, 💪 strong teams and using my engineering, communication and leadership skills to bring it all to life.
+I'm a language-agnostic software engineer at heart passionate about 👁 big visions, 🎯 ambitious goals, 💪 strong teams and using my engineering, communication and leadership skills to make this world a better place.
 
-I work in [Pipedrive](https://community.pipedrive.com/discussion/3816/a-new-unicorn-is-born-pipedrive-is-now-part-of-the-vista-family) as a Site-Reliability Engineer (SRE).
+I work in [Pipedrive](https://community.pipedrive.com/discussion/3816/a-new-unicorn-is-born-pipedrive-is-now-part-of-the-vista-family) as a Site-Reliability (SRE) / Backend Engineer.
 
 My background is in Backend and Mobile development.
 
