@@ -12,6 +12,6 @@ Currently based in Tallinn, Estonia.
 
 Feel free to reach out to me
 
-strelnikov.maxim@gmail.com
+maxgoldenberg129@gmail.com
 <p><a href="https://www.linkedin.com/in/makks"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a></p>
 
